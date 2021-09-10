@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumarMangesh
+- 👋 Hi, I’m kumarMangesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript and React
 - 💞️ I’m looking to collaborate on full stack development
