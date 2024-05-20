@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kumarMangesh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javaScript and React
+- 👀 I’m a fullstack frontend heavy web developer
+- 🌱 MERN, MVEN
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 You can meet me at https://www.linkedin.com/in/mangesh-kumar-857472129/ or mail me @ mangeshsang@gmail.com
 
