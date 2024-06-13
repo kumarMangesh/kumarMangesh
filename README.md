@@ -3,7 +3,8 @@
 - 🌱 MERN, MVEN
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 You can meet me at https://www.linkedin.com/in/mangesh-kumar-857472129/ or mail me @ mangeshsang@gmail.com
-- Demo projects - https://food-recipe-s7ze.onrender.com  https://master--mangesh-weatherapp.netlify.app/
+- Demo projects - https://food-recipe-s7ze.onrender.com
+                - https://master--mangesh-weatherapp.netlify.app/
 
 <!---
 kumarMangesh/kumarMangesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
